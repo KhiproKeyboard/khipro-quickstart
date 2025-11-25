@@ -99,7 +99,7 @@
   <td>আ, া</td>
   <td>ই, ি</td>
   <td>উ, ু</td>
-  <td>ঋ, ৃ</td>
+  
   <td>এ, ে</td>
   <td>ঐ, ৈ</td>
   <td>ঔ, ৌ</td>
@@ -110,7 +110,7 @@
   <td>a</td>
   <td>i</td>
   <td>u</td>
-  <td>q</td>
+  
   <td>e</td>
   <td>oi</td>
   <td>ou</td>
