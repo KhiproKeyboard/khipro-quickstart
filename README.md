@@ -117,14 +117,14 @@
   </tr>
 
   <tr>
-  <td>ওয়া, োয়া</td>
+  
   <td>জ্ঞ</td>
   <td>ঞ্জ</td>
   <td>র-ফলা</td>
   </tr>
 
   <tr>
-  <td>wa</td>
+  
   <td>gg</td>
   <td>nj</td>
   <td>r</td>
